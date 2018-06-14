@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue May 03 16:09:54 BST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0154-772b-1be8-00000ac45320 
+on database directory C:\Users\Ricardo\Documents\sdc-tf\Trabalho_SDC_Servidor\dasda with class loader sun.misc.Launcher$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/Ricardo/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=C:\Users\Ricardo\Documents\sdc-tf\Trabalho_SDC_Servidor
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
